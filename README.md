@@ -18,12 +18,12 @@ I’m a data-focused problem solver with 5 years of Excel-based merchandising ex
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [Data_Analysis_Projects](https://github.com/ThomasBolstad/Data_Analysis_Projects) | Real-world Python and Excel dashboards used for buying, replenishment, and performance reporting. | Python, Excel, Pandas, VBA |
-| [Coding-Projects](https://github.com/ThomasBolstad/Coding-Projects) | Core Python projects from freeCodeCamp covering logic, OOP, simulations, and problem solving. | Python, Matplotlib |
+| [python_scientific_computing_projects](https://github.com/ThomasBolstad/python_scientific_computing_projects) | Core Python projects from freeCodeCamp covering logic, OOP, simulations, and problem solving. | Python, Matplotlib |
 | [html_css_projects](https://github.com/ThomasBolstad/html_css_projects) | Beginner web projects from freeCodeCamp's Responsive Web Design curriculum. | HTML, CSS |
 
 ---
 
-## 📈 Goals for 2024
+## 📈 Goals for 2025
 
 - Land a data analyst or junior developer role
 - Build more automation tools using Python + APIs
