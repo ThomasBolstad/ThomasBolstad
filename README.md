@@ -36,7 +36,6 @@ I’m a data-focused problem solver with 5 years of Excel-based merchandising ex
 
 - 📧 tombolstad45@gmail.com  
 - 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/thomas-bolstad-647049139/)  
-#- 🌐 [thomasbolstad.github.io](https://thomasbolstad.github.io) *(Coming Soon)*
 
 ---
 
